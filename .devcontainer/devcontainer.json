@@ -1,0 +1,10 @@
+{
+    "name": "DV Docker Sample",
+    "dockerFile": "Dockerfile",
+  
+    "settings": {
+      "terminal.integrated.shell.linux": "/bin/bash"
+    },
+  
+    "extensions": ["ms-python.python", "ms-toolsai.jupyter"]
+  }
