@@ -6,5 +6,7 @@
       "terminal.integrated.shell.linux": "/bin/bash"
     },
   
-    "extensions": ["ms-python.python", "ms-toolsai.jupyter"]
+    "extensions": ["ms-python.python",
+                   "ms-toolsai.jupyter",
+		           "ms-vsliveshare.vsliveshare"]
   }
