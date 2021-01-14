@@ -8,5 +8,5 @@
   
     "extensions": ["ms-python.python",
                    "ms-toolsai.jupyter",
-		           "ms-vsliveshare.vsliveshare"]
+                   "ms-vsliveshare.vsliveshare"]
   }
