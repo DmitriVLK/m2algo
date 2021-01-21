@@ -1,5 +1,5 @@
 {
-    "name": "M2 ALGO CONTAINER 13 JAN 21",
+    "name": "M2 ALGO CONTAINER 21 JAN 21",
     "dockerFile": "Dockerfile",
   
     "settings": {
@@ -7,6 +7,5 @@
     },
   
     "extensions": ["ms-python.python",
-                   "ms-toolsai.jupyter",
-                   "ms-vsliveshare.vsliveshare"]
+                   "ms-toolsai.jupyter"]
   }
